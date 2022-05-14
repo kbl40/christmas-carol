@@ -1,4 +1,4 @@
-**12 Days of Christmas carol printer
+##12 Days of Christmas carol printer
 This is a quick program from the Rust book that programatically prints the lyrics of the well-known carol, 12 Days of Christmas.
 
 From the terminal while in the root directory run:
